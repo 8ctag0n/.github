@@ -1,6 +1,6 @@
 # .github
 
-## ⚙️ Organization Configuration
+## Organization Configuration
 
 This repository hosts the global configuration for the **8ctag0n** ecosystem.
 
