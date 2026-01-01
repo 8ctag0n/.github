@@ -1,0 +1,31 @@
+name: Research Proposal
+description: Propose a new feature, circuit, or architectural shift.
+title: "[PROPOSAL]: <Title>"
+labels: ["enhancement", "research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **INNOVATION PROTOCOL**
+        Proposals must be grounded in utility and efficiency.
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What is the goal? (e.g., "Reduce proving time by 20%")
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Proposed Implementation
+      description: High-level technical approach.
+      placeholder: Use the new lookup table strategy in Halo2...
+
+  - type: textarea
+    id: visual
+    attributes:
+      label: Concept Visualization
+      description: ASCII art, Mermaid, or Links to Figma/Whiteboard.
