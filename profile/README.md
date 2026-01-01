@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Lorenz_system_r28_s10_b2-6666.png" width="450" alt="Lorenz Attractor" />
+<img src="https://hypertextbook.com/chaos/strange/lorenz-attractor.gif" width="450" alt="Lorenz Attractor" />
 
-# Z Y B . L A B S
+# 8 C T A G 0 N . L A B S
 
 **COMPUTATION // CRYPTOGRAPHY // CHAOS THEORY**
 
